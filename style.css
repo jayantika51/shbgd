@@ -1,0 +1,26 @@
+body
+{
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc);
+	
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+button{
+	background: linear-gradient(to bottom, #ff9933 0%, #ff99cc);
+border-radius: 20px;
+border-color: rgb(6, 234, 234);
+font-weight: bold;
+width: 110px;
+height:50px;
+font-size: large;
+}
